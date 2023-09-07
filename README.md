@@ -40,7 +40,7 @@ OR
 ```
 ./server.py
 ```
->You should see a message indicating that the ==server has started and is waiting for connections==.
+>You should see a message indicating that the *server has started and is waiting for connections.*
 
 4. Run the Clients. 
 >Open additional terminals or command prompts for each client you want to run. In each client terminal, navigate to the directory where you saved `client.py.` Then, run the client script by typing the following command:
